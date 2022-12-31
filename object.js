@@ -5,4 +5,5 @@ const person = {
     eyeColor: "blue"
   };
   console.log(person);
-  console.log(age);
+  console.log(person.age);
+  console.log(person.eyeColor);
